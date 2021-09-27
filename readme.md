@@ -1,3 +1,3 @@
 feat1
-hotfix
+hotfix2
 feat2
